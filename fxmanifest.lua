@@ -23,7 +23,13 @@ client_scripts {
 }
 
 client_scripts {
-     'example.lua',
+     --'example.lua',
+     --'character.lua',
+     --'gasstation.lua',
+     'lspd_armory.lua',
+     'lspd_frontdesk.lua',
+     'lspd_garage.lua',
+     'lspd_locker.lua'
 }
 
 
